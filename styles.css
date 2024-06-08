@@ -132,7 +132,7 @@ h2 {
 .cta-button {
     display: inline-block;
     padding: 0.5rem 1rem;
-    background: transparant;
+    background: transparent;
     color: black;
     text-decoration: none;
     border-radius: 5px;
