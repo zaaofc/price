@@ -132,8 +132,8 @@ h2 {
 .cta-button {
     display: inline-block;
     padding: 0.5rem 1rem;
-    background: #333;
-    color: white;
+    background: transparant;
+    color: black;
     text-decoration: none;
     border-radius: 5px;
     transition: background 0.3s;
